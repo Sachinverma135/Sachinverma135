@@ -1,5 +1,5 @@
  # 💫 About Me:
-I'm a student of BCA my specialization is Full stack Devlopper creating interactive and Responsive website with using Great Tech
+I'm a student of BCA my specialization is Full stack Developer creating interactive and Responsive website with using Great Tech
 
 
 ## 🌐 Socials:
